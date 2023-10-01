@@ -1,5 +1,5 @@
-1 install
-sudo apt-get install git
+1!install
+sudo!apt-get install git
 sudo apt-get install git-core
 
 2 config
@@ -20,3 +20,4 @@ click SSH Keys
 click Add SSH key
 click Add key
 enter your GitHub password
+ 
